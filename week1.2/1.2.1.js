@@ -18,7 +18,9 @@
 // }
 
 //1.3 counts from 0 to 1000 and prints it using for loop
-
+// let ans=0;
 // for(let i=0;i<=1000;i++){
-//     console.log(i+" ")
+//     ans=ans+i;
+    
 // }
+// console.log(ans)
